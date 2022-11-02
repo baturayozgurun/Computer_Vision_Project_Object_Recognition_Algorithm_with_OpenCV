@@ -1,0 +1,2 @@
+The 1th test object is identical as the images in the dataset
+The 2th test object is (slightly) different from the dataset images
